@@ -1,0 +1,32 @@
+.menu button.btn-icon-search {
+  padding: 0;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.menu button.btn-icon-search:hover {
+  opacity: 0.8;
+}
+.row > .col-md-6 > .profil-gedung img {
+  width: 546px;
+  height: 372px;
+}
+
+.profil-comp img {
+  width: 100%;
+  height: 178px;
+}
+.footer ul li {
+  list-style: none;
+  font-weight: 100;
+}
+.footer ul li a {
+  color: white;
+  text-decoration: none;
+}
+.footer ul li a:hover {
+  color: orange;
+}
+.hide {
+  display: none;
+}
